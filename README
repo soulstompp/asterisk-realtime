@@ -1,0 +1,1 @@
+Currently this only contains roles which have the fields needed by the realtime engine for asterisk. This will later have modules (most likely using Fey) for managing the realtime data.
