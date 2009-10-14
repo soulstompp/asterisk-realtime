@@ -1,4 +1,4 @@
-package Asterisk::Config::DID;
+package Callusion::Interface::Realtime::DID;
 
 use Moose::Role;
 

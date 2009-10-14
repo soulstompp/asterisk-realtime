@@ -1,4 +1,4 @@
-package Asterisk::RealTime::SIPBuddy;
+package Callusion::Interface::RealTime::SIPBuddy;
 
 use Moose;
 use MooseX::Storage;

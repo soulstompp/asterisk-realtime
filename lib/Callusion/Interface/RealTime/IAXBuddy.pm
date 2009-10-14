@@ -1,4 +1,4 @@
-package Asterisk::RealTime::IAXBuddy;
+package Callusion::Interface::RealTime::IAXBuddy;
 
 use Moose;
 use MooseX::Storage;

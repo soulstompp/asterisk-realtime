@@ -1,4 +1,4 @@
-package Asterisk::RealTime::UserNumber;
+package Callusion::Interface::RealTime::UserNumber;
 
 use Moose;
 use MooseX::Storage;

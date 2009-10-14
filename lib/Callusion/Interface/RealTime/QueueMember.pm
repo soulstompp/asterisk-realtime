@@ -1,4 +1,4 @@
-package Asterisk::RealTime::QueueMember;
+package Callusion::Interface::RealTime::QueueMember;
 
 use Moose;
 use MooseX::Storage;

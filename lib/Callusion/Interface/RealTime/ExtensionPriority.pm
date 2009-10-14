@@ -1,4 +1,4 @@
-package Asterisk::RealTime::ExtensionPriority;
+package Callusion::Interface::RealTime::ExtensionPriority;
 
 use Moose;
 use MooseX::Storage;

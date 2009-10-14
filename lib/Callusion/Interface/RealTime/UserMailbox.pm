@@ -1,4 +1,4 @@
-package Asterisk::RealTime::UserMailbox;
+package Callusion::Interface::RealTime::UserMailbox;
 
 use Moose;
 use MooseX::Storage;
